@@ -3,6 +3,7 @@
 <h3 align="center">An Engineer from Bangladesh</h3>
 
 - 📫 How to reach me **zahid.juel1998@gmail.com**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-innerstorm&label=Profile%20views&color=0e75b6&style=flat" alt="ZAHID-H" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
