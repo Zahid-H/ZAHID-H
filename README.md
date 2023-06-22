@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Md.Zahid Hasan Juel</h1>
-<h3 align="center">A Computer Engineering from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Md. Zahid Hasan Juel</h1>
+<h3 align="center">A SQA Engineering from Bangladesh</h3>
 
 
 - ![542_221504_tech hero](https://user-images.githubusercontent.com/83463788/119847355-ba4ce580-bf2c-11eb-96a2-1cede478e527.jpg)
