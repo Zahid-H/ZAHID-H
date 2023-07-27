@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Zahid Hasan Juel</h1>
 <h3 align="center">SQA Engineer from Bangladesh</h3>
 
- ![542_221504_tech hero](https://user-images.githubusercontent.com/83463788/119847355-ba4ce580-bf2c-11eb-96a2-1cede478e527.jpg)
-
+<img align="Center" alt="Coder GIF" height=700 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-<b>I'm a self-motivated, hard-working and passionate person. looking for an
-opportunity to use my talent, academic skills, and technical knowledge to state my
-ability to enhance my educational qualifications. Highly desired to grow up my
-career as a Software Quality Assurance Engineer to utilize my skills in software
-testing, identifying bugs, performance management and ensuring quality.</b>
-<br>
-<br>
+<b>I'm a self-motivated, hard-working and passionate person. looking for an opportunity to use my talent, academic skills, and technical knowledge to state my ability to enhance my educational qualifications. Highly desired to grow up my career as a Software Quality Assurance Engineer to utilize my skills in software testing, identifying bugs, performance management and ensuring quality.</b>
+
 <div align="center">
 
 📫 <b>How to reach me</b> <br>
