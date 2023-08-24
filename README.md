@@ -1,8 +1,7 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Md. Zahid Hasan Juel</h1>
 <h3 align="center">Software Quality Assurance Engineer from Bangladesh</h3>
-
-
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 <b>I'm a self-motivated, hard-working and passionate person. looking for an opportunity to use my talent, academic skills, and technical knowledge to state my ability to enhance my educational qualifications. Highly desired to grow up my career as a Software Quality Assurance Engineer to utilize my skills in software testing, identifying bugs, performance management and ensuring quality.</b></p>
 
@@ -44,7 +43,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![CodePareNa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAHID-H&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![ZAHID-H's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAHID-H&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZAHID-H&count_private=true&theme=algolia&border_radius=20)
 
