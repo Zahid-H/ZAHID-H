@@ -21,10 +21,6 @@
 <br>
 <br>
 <br>
-<div class="footer" align="center">
-<h3 align="left">Connect with me:</h3>
-
-</div>
 <!-- Statistics -->
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
